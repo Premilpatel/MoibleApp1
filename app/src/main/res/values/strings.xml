@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoibleApp1</string>
+    <string name="user_since">You are a registered user since:\n %1$s</string>
+    <string name="welcome_user">Welcome! %1$s</string>
+</resources>

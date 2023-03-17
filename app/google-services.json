@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276925521247",
+    "project_id": "moibleapp1",
+    "storage_bucket": "moibleapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276925521247:android:963c35fe3c92de2b376aea",
+        "android_client_info": {
+          "package_name": "com.example.moibleapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276925521247-kfrvbkdr6umms8a4s92h3pq2jf8tdukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyGIO9E52kEVxCefKbeDbjGZy_mXUMZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276925521247-kfrvbkdr6umms8a4s92h3pq2jf8tdukt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
